@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "framer-motion": "^12.10.5"
+  },
+  "scripts": {
+    "mvn": "mvn clean install"
+  }
+}
